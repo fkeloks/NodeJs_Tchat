@@ -1,0 +1,17 @@
+{
+  "name": "tchat",
+  "version": "1.0.0",
+  "description": "Un simple tchat pour tester nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "fkeloks",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "moment": "^2.17.1",
+    "mysql": "^2.13.0",
+    "socket.io": "^1.7.3"
+  }
+}
